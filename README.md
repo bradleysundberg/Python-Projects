@@ -33,3 +33,6 @@ This file defines a simple BankAccount class in Python to demonstrate the concep
 
 # File Transfer
 This is a utility app for regularly copying recently modified files from one folder to another, using a simple GUI.
+
+# Inheritance
+This file demonstrates class inheritance in Python using animals as an example.
