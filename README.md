@@ -9,3 +9,4 @@ These are basic projects written in Python. They use various modules such as tki
 * [Abstraction](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/abstraction.py)
 * [Encapsulation](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/encapsulation.py)
 * [File Transfer](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/file_transfer4.py)
+* [Inheritance](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/inheritance.py)
