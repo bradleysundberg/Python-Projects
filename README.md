@@ -36,3 +36,6 @@ This is a utility app for regularly copying recently modified files from one fol
 
 # Inheritance
 This file demonstrates class inheritance in Python using animals as an example.
+
+# Polymorphism
+This file demonstrates the concept of polymorphism in Python using classes that represent animals.
