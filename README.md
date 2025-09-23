@@ -27,3 +27,6 @@ The game greets the player, asks for their name, and then presents a series of s
 
 # Abstraction
 This project uses abstraction in Python to define a common interface for subclasses (here, all animals must have a make_sound() method). It provides a concrete implementation with the Dog class. It then creates a dog and prints information about it using both the abstract and regular methods.
+
+# Encapsulation
+This file defines a simple BankAccount class in Python to demonstrate the concept of encapsulation.
