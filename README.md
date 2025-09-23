@@ -20,7 +20,7 @@ This project functions as a university database. It stores and displays informat
 This project functions as a checkbook. It saves and displays information related to deposits and withdrawals.
 
 # Database
-This project filters a list of filenames and stores .txt files in a database, then displays the results. It’s a basic example of database interaction and file type filtering.
+This project filters a list of filenames and stores .txt files in a database, then displays the results.
 
 # Nice or Mean
 The game greets the player, asks for their name, and then presents a series of scenarios where "a stranger approaches you for a conversation." Each time, you must choose whether to be nice (N) or mean (M). Your choices are tracked with "nice" and "mean" counters.
