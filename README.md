@@ -20,4 +20,6 @@ This project functions as a university database. It stores and displays informat
 This project functions as a checkbook. It saves and displays information related to deposits and withdrawals.
 
 # Database
+This project filters a list of filenames and stores .txt files in a database, then displays the results. It’s a basic example of database interaction and file type filtering.
 
+# Nice or Mean
