@@ -39,3 +39,6 @@ This file demonstrates class inheritance in Python using animals as an example.
 
 # Polymorphism
 This file demonstrates the concept of polymorphism in Python using classes that represent animals.
+
+# Web Page Generator
+This script creates a simple GUI application using Python’s Tkinter library that generates an HTML file and opens it in your web browser.
