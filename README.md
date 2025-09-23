@@ -14,4 +14,10 @@ These are basic projects written in Python. They use various modules such as tki
 * [Web Page Generator](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/web_page_generator2.py)
 
 # Classes
-This was designed to store and display class schedule information for school.
+This project functions as a university database. It stores and displays information about different schools.
+
+# Django Checkbook Project
+This project functions as a checkbook. It saves and displays information related to deposits and withdrawals.
+
+# Database
+
