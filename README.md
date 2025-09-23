@@ -3,3 +3,4 @@ These are basic projects written in Python. They use various modules such as tki
 
 # Projects:
 * [Classes](https://github.com/bradleysundberg/Basic-Python-Projects/tree/main/Classes)
+* [Django Checkbook Project](https://github.com/bradleysundberg/Basic-Python-Projects/tree/main/Django_Checkbook_Project/BlueBirdBanking)
