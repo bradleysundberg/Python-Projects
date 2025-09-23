@@ -7,3 +7,4 @@ These are basic projects written in Python. They use various modules such as tki
 * [Database](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/Database.py)
 * [Nice or Mean](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/Nice%20or%20Mean.py)
 * [Abstraction](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/abstraction.py)
+* [Encapsulation](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/encapsulation.py)
