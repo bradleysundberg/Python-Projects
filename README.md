@@ -30,3 +30,6 @@ This project uses abstraction in Python to define a common interface for subclas
 
 # Encapsulation
 This file defines a simple BankAccount class in Python to demonstrate the concept of encapsulation.
+
+# File Transfer
+This is a utility app for regularly copying recently modified files from one folder to another, using a simple GUI.
