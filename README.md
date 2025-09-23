@@ -12,3 +12,6 @@ These are basic projects written in Python. They use various modules such as tki
 * [Inheritance](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/inheritance.py)
 * [Polymorphism](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/polymorphism.py)
 * [Web Page Generator](https://github.com/bradleysundberg/Basic-Python-Projects/blob/main/web_page_generator2.py)
+
+# Classes
+This was designed to store and display class schedule information for school.
